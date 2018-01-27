@@ -4,9 +4,9 @@ There is a demo about Haptic Feedback. You can download it to figure out thediff
 
 >UIFeedbackGenerator -- superclass intrduced on iOS10
   
-###This demo is about it's subclasses whitch are called "UINotificationFeedbackGenerator"、"UIImpactFeedbackGenerator"、"UISelectionFeedbackGenerator"
+### This demo is about it's subclasses whitch are called "UINotificationFeedbackGenerator"、"UIImpactFeedbackGenerator"、"UISelectionFeedbackGenerator"
 
-###Download it and feeling it.
+### Download it and feeling it.
 
 
 
