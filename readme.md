@@ -6,7 +6,7 @@ There is a demo about Haptic Feedback. You can download it to figure out thediff
   
 ### This demo is about it's subclasses whitch are called "UINotificationFeedbackGenerator"、"UIImpactFeedbackGenerator"、"UISelectionFeedbackGenerator"
 
-### Download it and feeling it.
+### Download it and feeling it.[https://github.com/Deeer/UIFeedbackGeneratorDemo/edit/master/readme.md]
 
 
 
