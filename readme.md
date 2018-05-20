@@ -1,6 +1,6 @@
 # Haptic Feedback Demo
 
-## There is a demo about Haptic Feedback. You can download it to figure out the differences among with them.
+## There is a demo about Haptic Feedback. You can download it to figure out the differences among them.
 
 > ```UIFeedbackGenerator```
   
